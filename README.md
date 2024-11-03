@@ -1,6 +1,6 @@
-# dlcolorization
+# Reimagining Monochrome: A Deep Learning Approach to Image Colorization 
 
-final project for the deep learning course
+Final project for the course 02456 - Depp Learning - DTU
 
 ## Project structure
 
