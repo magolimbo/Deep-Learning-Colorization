@@ -62,9 +62,6 @@ The directory structure of the project looks like this:
 
 ```
 
-
- This project explores the automatic colorization of grayscale images using convolutional autoencoders trained on RGB and LAB color spaces.
-
 ---
 
 ## Project Overview
