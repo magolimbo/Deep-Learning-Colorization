@@ -4,6 +4,11 @@ Final project for the course 02456 - Depp Learning - DTU
 
 ## Project structure
 
+
+Created using [mlops_template](https://github.com/SkafteNicki/mlops_template),
+a [cookiecutter template](https://github.com/cookiecutter/cookiecutter) for getting
+started with Machine Learning Operations (MLOps).
+
 The directory structure of the project looks like this:
 
 ```txt
@@ -138,7 +143,3 @@ Tracked using [Weights & Biases](https://wandb.ai).
 
 ---
 
-
-Created using [mlops_template](https://github.com/SkafteNicki/mlops_template),
-a [cookiecutter template](https://github.com/cookiecutter/cookiecutter) for getting
-started with Machine Learning Operations (MLOps).
